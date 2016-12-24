@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<fqa>
+    <question>
+        <ask> 
+            WHAT QUESTIONS SHOULD I ASK WHEN LOOKING AT HOMES?
+        </ask>
+        <answer> 
+            Many of your questions should focus on potential problems and maintenance issues. 
+            Does anything need to be replaced? What things require ongoing maintenance (e.g., paint, roof, HVAC, appliances, carpet)? Also ask about the house and neighborhood, focusing on quality of life issues. Be sure the seller's or real estate agent's answers are clear and complete. Ask questions until you understand all of the information they've given. Making a list of questions ahead of time will help you organize your thoughts and arrange all of the information you receive.
+        </answer>
+    </question>
+    <question>
+        <ask> 
+            HOW MANY HOMES SHOULD I CONSIDER BEFORE CHOOSING ONE?
+        </ask>
+        <answer> 
+           There isn't a set number of houses you should see before you decide. Visit as many as it takes to find the one you want. On average, homebuyers see 15 houses before choosing one. Just be sure to communicate often with your real estate agent about everything you're looking for. It will help avoid wasting your time.
+        </answer>
+    </question>
+    
+    <question>
+        <ask> 
+            WHAT IS A GOOD FAITH ESTIMATE, AND HOW DOES IT HELP ME?
+        </ask>
+        <answer> 
+            It's an estimate that lists all fees paid before closing, all closing costs, and any escrow costs you will encounter when purchasing a home. The lender must supply it within three days of your application so that you can make accurate judgments when shopping for a loan. WHAT HAPPENS AFTER I'VE APPLIED FOR MY LOAN? It usually takes a lender between 1-6 weeks to complete the evaluation of your application. Its not unusual for the lender to ask for more information once the application has been submitted. The sooner you can provide the information, the faster your application will be processed. Once all the information has been verified the lender will call you to let you know the outcome of your application. If the loan is approved, a closing date is set up and the lender will review the closing with you. And after closing, you'll be able to move into your new home.
+        </answer>
+    </question>
+</fqa>
